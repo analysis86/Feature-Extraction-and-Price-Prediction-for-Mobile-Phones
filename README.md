@@ -2,8 +2,6 @@
 
 Project-4_Feature Extraction & Price Prediction for Mobile Phones.ipynb is my project notebook.
 
-cleaned_housing_data.xlsx is my project_4 final data excel sheet.
-
 encoding_Processed_Flipdata.xlsx is my project_4 final data exel sheet.
 
 Project-4_Next-Hikes.ppt.pptx is my power_point.ppt file.
