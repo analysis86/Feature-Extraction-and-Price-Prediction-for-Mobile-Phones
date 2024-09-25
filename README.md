@@ -1,9 +1,11 @@
 ﻿# Project-4.
 
-Project-4_Feature Extraction and Price Prediction for Mobile Phones.ipynb is my project notebook.
+Project-4_Feature Extraction & Price Prediction for Mobile Phones.ipynb is my project notebook.
 
-cleaned_housing_data.xlsx is my project_4 final data exel sheet.
+cleaned_housing_data.xlsx is my project_4 final data excel sheet.
 
 encoding_Processed_Flipdata.xlsx is my project_4 final data exel sheet.
 
-Feature Extraction and Price Prediction for Mobile Phones.ppt is my power_point.ppt file
+Project-4_Next-Hikes.ppt.pptx is my power_point.ppt file.
+
+The goal of this project is to predict the prices of mobile phones based on various features such as model,color, memory, RAM, battery capacity, camera specifications, AI lens presence, mobile height, and processor type. The dataset used for this analysis is the "Processed_Flipdata" dataset, which contains information about these features as well as the corresponding prices of the mobile phones.
